@@ -1,6 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const path = require('path');
+const path = require("path");
 
 const config = require("./config/default.json");
 
